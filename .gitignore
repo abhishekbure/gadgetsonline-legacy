@@ -1,0 +1,12 @@
+﻿# Build results
+bin/
+obj/
+*.user
+*.suo
+.vs/
+packages/
+*.nupkg
+
+# Windows
+Thumbs.db
+Desktop.ini
